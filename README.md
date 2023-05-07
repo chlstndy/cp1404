@@ -13,4 +13,5 @@ Throughout this course, I have gained valuable insights regarding the importance
 Naming Conventions: Adopting clear and descriptive names for variables, functions, and classes greatly enhances code readability and maintainability.
 Code Organization: Breaking down code into functions and classes promotes modularity, reusability, and facilitates testing and debugging processes.
 Comments and Documentation: Utilizing comments to elucidate complex or ambiguous code sections, along with employing docstrings to provide comprehensive information about the purpose and usage of functions and classes.
-Useful Links https://github.com/CP1404/Starter/wiki/Programming-Patterns https://github.com/CP1404/Practicals
+
+Useful Links https://github.com/CP1404/Starter/wiki/Programming-Patterns
